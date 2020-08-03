@@ -11,7 +11,7 @@ def snowman():
 
     # your code to draw the snowman goes here
     # draw three circles for the body
-    # name the three circles circle1, circle2 and circl3
+    # name the three circles circle1, circle2 and circle3
 
     # draw two eyes on the top circle
     # name the two eyes using variables eye1 and eye2
