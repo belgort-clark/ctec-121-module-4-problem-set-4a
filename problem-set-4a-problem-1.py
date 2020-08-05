@@ -25,6 +25,9 @@ def snowman():
     # draw a line to represent the rim of the hat using a line
     # name the line using the variable hatline
 
+    # draw two arms that connect to the body of the snowman
+    # name the line objects leftArm and rightArm
+
     # close the program
     input('Press enter to quit the program ')
     # close the graphics window
